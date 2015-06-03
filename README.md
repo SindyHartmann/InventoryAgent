@@ -1,0 +1,2 @@
+# InventoryAgent
+In diesem Projekt soll eine App programmiert werden, die den Besitzer dabei unterstützt seine täglichen Besorgungen zu machen. Sie soll den Bestand in der heimischen Küche vermerken und gegebenenfalls fehlende Bestände auf einem Einkaufszettel vermerken. Der App-Besitzer kann dann unterwegs seine Bestände abfragen und mit der Einkaufsliste einkaufen gehen. Natürlich will der Nutzer nicht jedes einzelne Objekt per Hand in seinen Bestand einfügen. Dazu soll es eine Möglichkeit geben den Barcode an den Produkten zu scannen und so in den Bestand einzufügen.
